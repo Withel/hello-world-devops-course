@@ -11,6 +11,7 @@
     <p>LET'S SEE IF IMAGE WILL BE PUSHED TO DOCKER HUB!</p>
     <p>Does it djent?</p>
     <p>It didn't :( :( :(</p>
+    <p>Maybe now?</p>
     <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
