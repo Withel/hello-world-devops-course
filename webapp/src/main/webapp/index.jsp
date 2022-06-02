@@ -8,7 +8,8 @@
     <p>LETS SEE IF POLL SCM WORKS!</p>
     <p>Change done on 29.05.2022</p>
     <p>ANOTHER CHANGE <3</p>
-    <p>LET'S SEE IF IMAGE WILL BE PUSHED TO DOCKER HUB!</p?
+    <p>LET'S SEE IF IMAGE WILL BE PUSHED TO DOCKER HUB!</p>
+    <p>Does it djent?</p>
     <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
